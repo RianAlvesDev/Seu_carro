@@ -1,0 +1,271 @@
+{
+  "pecas_cadastradas": {
+    "modelos": [
+      {
+        "id": "Argo",
+        "model": "Fiat Argo"
+      },
+      {
+        "id": "cronos",
+        "model": "Fiat Cronos"
+      },
+      {
+        "id": "doblo",
+        "model": "Fiat Doblo"
+      },
+      {
+        "id": "fiorino",
+        "model": "Fiat Fiorino"
+      },
+      {
+        "id": "grandpalio",
+        "model": "Fiat Grand Palio"
+      },
+      {
+        "id": "linea",
+        "model": "Fiat Linea"
+      },
+      {
+        "id": "mobi",
+        "model": "Fiat Mobi"
+      },
+      {
+        "id": "toro",
+        "model": "Fiat Toro"
+      },
+      {
+        "id": "uno",
+        "model": "Fiat Uno"
+      },
+      {
+        "id": "weekend",
+        "model": "Fiat Weekend"
+      },
+      {
+        "id": "accord",
+        "model": "Honda Accord"
+      },
+      {
+        "id": "altima",
+        "model": "Nissan Altima"
+      },
+      {
+        "id": "azera",
+        "model": "Hyundai Azera"
+      },
+      {
+        "id": "camry",
+        "model": "Toyota Camry"
+      },
+      {
+        "id": "captur",
+        "model": "Renault Captur"
+      },
+      {
+        "id": "compass",
+        "model": "Jeep Compass"
+      },
+      {
+        "id": "corolla",
+        "model": "Toyota Corolla"
+      },
+      {
+        "id": "civic",
+        "model": "Honda Civic"
+      },
+      {
+        "id": "cruze",
+        "model": "Chevrolet Cruze"
+      },
+      {
+        "id": "crv",
+        "model": "Honda CR-V"
+      },
+      {
+        "id": "duster",
+        "model": "Renault Duster"
+      },
+      {
+        "id": "ecosport",
+        "model": "Ford EcoSport"
+      },
+      {
+        "id": "edge",
+        "model": "Ford Edge"
+      },
+      {
+        "id": "fiesta",
+        "model": "Ford Fiesta"
+      },
+      {
+        "id": "fluence",
+        "model": "Renault Fluence"
+      },
+      {
+        "id": "focus",
+        "model": "Ford Focus"
+      },
+      {
+        "id": "frontier",
+        "model": "Nissan Frontier"
+      },
+      {
+        "id": "fusion",
+        "model": "Ford Fusion"
+      },
+      {
+        "id": "golf",
+        "model": "Volkswagen Golf"
+      },
+      {
+        "id": "gol",
+        "model": "Volkswagen Gol"
+      },
+      {
+        "id": "gladiator",
+        "model": "Jeep Gladiator"
+      },
+      {
+        "id": "hb20",
+        "model": "Hyundai HB20"
+      },
+      {
+        "id": "hilux",
+        "model": "Toyota Hilux"
+      },
+      {
+        "id": "hrv",
+        "model": "Honda HR-V"
+      },
+      {
+        "id": "i30",
+        "model": "Hyundai i30"
+      },
+      {
+        "id": "jetta",
+        "model": "Volkswagen Jetta"
+      },
+      {
+        "id": "ka",
+        "model": "Ford Ka"
+      },
+      {
+        "id": "kicks",
+        "model": "Nissan Kicks"
+      },
+      {
+        "id": "kwid",
+        "model": "Renault Kwid"
+      },
+      {
+        "id": "logan",
+        "model": "Renault Logan"
+      },
+      {
+        "id": "malibu",
+        "model": "Chevrolet Malibu"
+      },
+      {
+        "id": "march",
+        "model": "Nissan March"
+      },
+      {
+        "id": "megane",
+        "model": "Renault Megane"
+      },
+      {
+        "id": "murano",
+        "model": "Nissan Murano"
+      },
+      {
+        "id": "nivus",
+        "model": "Volkswagen Nivus"
+      },
+      {
+        "id": "onix",
+        "model": "Chevrolet Onix"
+      },
+      {
+        "id": "polo",
+        "model": "Volkswagen Polo"
+      },
+      {
+        "id": "prisma",
+        "model": "Chevrolet Prisma"
+      },
+      {
+        "id": "prius",
+        "model": "Toyota Prius"
+      },
+      {
+        "id": "ranger",
+        "model": "Ford Ranger"
+      },
+      {
+        "id": "rav4",
+        "model": "Toyota RAV4"
+      },
+      {
+        "id": "renegade",
+        "model": "Jeep Renegade"
+      },
+      {
+        "id": "s10",
+        "model": "Chevrolet S10"
+      },
+      {
+        "id": "sentra",
+        "model": "Nissan Sentra"
+      },
+      {
+        "id": "spin",
+        "model": "Chevrolet Spin"
+      },
+      {
+        "id": "sw4",
+        "model": "Toyota SW4"
+      },
+      {
+        "id": "tucson",
+        "model": "Hyundai Tucson"
+      },
+      {
+        "id": "tcross",
+        "model": "Volkswagen T-Cross"
+      },
+      {
+        "id": "tracker",
+        "model": "Chevrolet Tracker"
+      },
+      {
+        "id": "siena",
+        "model": "Fiat Siena"
+      },
+      {
+        "id": "veloster",
+        "model": "Hyundai Veloster"
+      },
+      {
+        "id": "versa",
+        "model": "Nissan Versa"
+      },
+      {
+        "id": "virtus",
+        "model": "Volkswagen Virtus"
+      },
+      {
+        "id": "wrangler",
+        "model": "Jeep Wrangler"
+      },
+      {
+        "id": "wrv",
+        "model": "Honda WR-V"
+      },
+      {
+        "id": "yaris",
+        "model": "Toyota Yaris"
+      }
+    ]
+  },
+  "items": []
+}
